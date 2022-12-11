@@ -1,1 +1,1 @@
-# DeAlCoin
+# AlCoin
